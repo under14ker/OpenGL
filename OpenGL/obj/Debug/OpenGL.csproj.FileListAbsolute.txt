@@ -1,0 +1,17 @@
+D:\code\OpenGL\OpenGL\bin\Debug\OpenGL.exe.config
+D:\code\OpenGL\OpenGL\bin\Debug\OpenGL.exe
+D:\code\OpenGL\OpenGL\bin\Debug\OpenGL.pdb
+D:\code\OpenGL\OpenGL\bin\Debug\OpenTK.dll
+D:\code\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.dll
+D:\code\OpenGL\OpenGL\bin\Debug\OpenTK.pdb
+D:\code\OpenGL\OpenGL\bin\Debug\OpenTK.xml
+D:\code\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.pdb
+D:\code\OpenGL\OpenGL\bin\Debug\OpenTK.GLControl.xml
+D:\code\OpenGL\OpenGL\obj\Debug\OpenGL.csproj.AssemblyReference.cache
+D:\code\OpenGL\OpenGL\obj\Debug\OpenGL.Form1.resources
+D:\code\OpenGL\OpenGL\obj\Debug\OpenGL.Properties.Resources.resources
+D:\code\OpenGL\OpenGL\obj\Debug\OpenGL.csproj.GenerateResource.cache
+D:\code\OpenGL\OpenGL\obj\Debug\OpenGL.csproj.CoreCompileInputs.cache
+D:\code\OpenGL\OpenGL\obj\Debug\OpenGL.csproj.Up2Date
+D:\code\OpenGL\OpenGL\obj\Debug\OpenGL.exe
+D:\code\OpenGL\OpenGL\obj\Debug\OpenGL.pdb

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\OpenGL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC8C715-CB23-48FE-9B39-5880CBD5A62C}|OpenGL\\OpenGL.csproj|d:\\code\\opengl\\opengl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC8C715-CB23-48FE-9B39-5880CBD5A62C}|OpenGL\\OpenGL.csproj|solutionrelative:opengl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC8C715-CB23-48FE-9B39-5880CBD5A62C}|OpenGL\\OpenGL.csproj|d:\\code\\opengl\\opengl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BC8C715-CB23-48FE-9B39-5880CBD5A62C}|OpenGL\\OpenGL.csproj|solutionrelative:opengl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC8C715-CB23-48FE-9B39-5880CBD5A62C}|OpenGL\\OpenGL.csproj|d:\\code\\opengl\\opengl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC8C715-CB23-48FE-9B39-5880CBD5A62C}|OpenGL\\OpenGL.csproj|solutionrelative:opengl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC8C715-CB23-48FE-9B39-5880CBD5A62C}|OpenGL\\OpenGL.csproj|d:\\code\\opengl\\opengl\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC8C715-CB23-48FE-9B39-5880CBD5A62C}|OpenGL\\OpenGL.csproj|solutionrelative:opengl\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\code\\OpenGL\\OpenGL\\Form1.cs",
+              "RelativeDocumentMoniker": "OpenGL\\Form1.cs",
+              "ToolTip": "D:\\code\\OpenGL\\OpenGL\\Form1.cs",
+              "RelativeToolTip": "OpenGL\\Form1.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:55:51.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\code\\OpenGL\\OpenGL\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "OpenGL\\Form1.Designer.cs",
+              "ToolTip": "D:\\code\\OpenGL\\OpenGL\\Form1.Designer.cs",
+              "RelativeToolTip": "OpenGL\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:56:12.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\OpenGL\\OpenGL\\Program.cs",
+              "RelativeDocumentMoniker": "OpenGL\\Program.cs",
+              "ToolTip": "D:\\code\\OpenGL\\OpenGL\\Program.cs",
+              "RelativeToolTip": "OpenGL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:55:21.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\code\\OpenGL\\OpenGL\\Form1.cs",
+              "RelativeDocumentMoniker": "OpenGL\\Form1.cs",
+              "ToolTip": "D:\\code\\OpenGL\\OpenGL\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "OpenGL\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:53:37.376Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
